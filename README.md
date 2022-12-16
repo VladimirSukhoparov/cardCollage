@@ -1,7 +1,7 @@
-# Первое приложение созданное на React
+# The first application created on React
 ![screenshot](./readme-assets/home.png)
 
-Получение картинок с открытого API (https://jsonplaceholder.typicode.com/photos) и создание коллажа.
+Getting images from an open API (https://jsonplaceholder.typicode.com/photos) and creating a collage.
 
 
 # Getting Started with Create React App
